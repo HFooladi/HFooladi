@@ -11,4 +11,4 @@ Welcome to my GitHub profile! Here are a few things about me:
 - 💬 Ask me about cheminformatics, and bioinformatics.
 - 📫 How to reach me: send an email to fooladi.hosein@gmail.com
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=$$USERNAME$$&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HFooladi&show_icons=true&theme=radical)
