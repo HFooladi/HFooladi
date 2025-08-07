@@ -8,8 +8,8 @@ Welcome to my GitHub profile! Here are a few things about me:
 - 💬 Ask me about cheminformatics and bioinformatics
 - 📫 How to reach me: I'm best reached via [email](https://hfooladi.github.io/). I'm always open to interesting conversations and collaboration.
 
-<!---
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HFooladi&show_icons=true&theme=radical)
--->
+
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/hfooladi)
