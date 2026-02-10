@@ -11,10 +11,11 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 
 ## What I Work On
 
-- Out-of-distribution generalization for molecular property prediction
+- High-performance scientific tooling in Rust (PDB/SDF parsers, molecular tokenizers)
+- Out-of-distribution generalization and robustness for molecular property and activity prediction
 - Graph neural networks for chemistry and drug discovery
 - Test-time training and domain adaptation in chemical space
-- High-performance scientific tooling in Rust (PDB/SDF parsers, molecular tokenizers)
+- Generative models for drug design (Diffusion, Flow-based models)
 
 ## Featured Projects
 
@@ -27,4 +28,4 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HFooladi&show_icons=true&theme=nord)
+![GitHub stats](https://github-readme-stats-hosein-fooladis-projects.vercel.app/api?username=HFooladi&show_icons=true&theme=nord)
