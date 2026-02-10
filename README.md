@@ -20,10 +20,10 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 
 | Project | Description |
 |---------|-------------|
+| [GNNs-For-Chemists](https://github.com/HFooladi/GNNs-For-Chemists) | Educational material: GNN implementations from scratch for chemists |
 | [pdbrust](https://github.com/HFooladi/pdbrust) | Rust library for parsing PDB files |
 | [ALineMol](https://github.com/HFooladi/ALineMol) | ML model performance on OOD data in chemistry |
 | [THEMAP](https://github.com/HFooladi/THEMAP) | Task hardness estimation for molecular activity prediction |
-| [GNNs-For-Chemists](https://github.com/HFooladi/GNNs-For-Chemists) | Educational material: GNN implementations from scratch for chemists |
 
 ## GitHub Stats
 
