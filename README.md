@@ -1,15 +1,30 @@
-# Hi there, I'm Hosein Fooladi! 👋
+# Hosein Fooladi
 
-Welcome to my GitHub profile! Here are a few things about me:
+**Machine Learning Researcher | Drug Discovery | Cheminformatics**
 
-- 🔭 I’m currently working on out-of-distribution (OOD) generalization in molecular property and activity prediction
-- 🌱 I’m currently learning JAX
-- 👯 I’m looking to collaborate on machine learning in drug discovery projects, especially generative models
-- 💬 Ask me about cheminformatics and bioinformatics
-- 📫 How to reach me: I'm best reached via [email](https://hfooladi.github.io/). I'm always open to interesting conversations and collaboration.
+PhD candidate at the University of Vienna, specializing in machine learning for drug discovery and out-of-distribution generalization. Interdisciplinary background spanning Biomedical Engineering (MSc, Sharif University) and Mechanical Engineering (BSc, Amirkabir University).
 
+[![Website](https://img.shields.io/badge/Website-hfooladi.github.io-blue?style=flat-square&logo=github)](https://hfooladi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hoseinfooladi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hoseinfooladi)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=jLLcHQ8AAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-fooladi.hosein%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:fooladi.hosein@gmail.com)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HFooladi&show_icons=true&theme=nord)
+## What I Work On
 
+- Out-of-distribution generalization for molecular property prediction
+- Graph neural networks for chemistry and drug discovery
+- Test-time training and domain adaptation in chemical space
+- High-performance scientific tooling in Rust (PDB/SDF parsers, molecular tokenizers)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/hfooladi)
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [pdbrust](https://github.com/HFooladi/pdbrust) | Rust library for parsing PDB files |
+| [ALineMol](https://github.com/HFooladi/ALineMol) | ML model performance on OOD data in chemistry |
+| [THEMAP](https://github.com/HFooladi/THEMAP) | Task hardness estimation for molecular activity prediction |
+| [GNNs-For-Chemists](https://github.com/HFooladi/GNNs-For-Chemists) | Educational material: GNN implementations from scratch for chemists |
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HFooladi&show_icons=true&theme=nord)
