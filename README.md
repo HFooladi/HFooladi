@@ -25,6 +25,8 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 | [pdbrust](https://github.com/HFooladi/pdbrust) | Rust library for parsing PDB files |
 | [ALineMol](https://github.com/HFooladi/ALineMol) | ML model performance on OOD data in chemistry |
 | [THEMAP](https://github.com/HFooladi/THEMAP) | Task hardness estimation for molecular activity prediction |
+| [sdfrust](https://github.com/HFooladi/sdfrust) | A fast, pure-Rust parser for SDF and MOL2 chemical structure files |
+| [molax](https://github.com/HFooladi/molax) | Molecular active learning with JAX |
 
 ## GitHub Stats
 
