@@ -27,6 +27,7 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 | [THEMAP](https://github.com/HFooladi/THEMAP) | Task hardness estimation for molecular activity prediction |
 | [sdfrust](https://github.com/HFooladi/sdfrust) | A fast, pure-Rust parser for SDF and MOL2 chemical structure files |
 | [molax](https://github.com/HFooladi/molax) | Molecular active learning with JAX |
+| [Transformers-For-Chemists](https://github.com/HFooladi/Transformers-For-Chemists) | Educational course: Transformers from scratch for chemists |
 
 ## GitHub Stats
 
