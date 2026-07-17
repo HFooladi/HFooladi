@@ -31,4 +31,4 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats-hosein-fooladis-projects.vercel.app/api?username=HFooladi&show_icons=true&theme=nord&v=4)
+![GitHub stats](https://github-readme-stats-hosein-fooladis-projects.vercel.app/api?username=HFooladi&show_icons=true&theme=nord&v=5)
