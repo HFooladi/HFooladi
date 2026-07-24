@@ -28,6 +28,8 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 | [sdfrust](https://github.com/HFooladi/sdfrust) | A fast, pure-Rust parser for SDF and MOL2 chemical structure files |
 | [molax](https://github.com/HFooladi/molax) | Molecular active learning with JAX |
 | [Transformers-For-Chemists](https://github.com/HFooladi/Transformers-For-Chemists) | Educational course: Transformers from scratch for chemists |
+| [rustmolbpe](https://github.com/HFooladi/rustmolbpe) | High-performance BPE tokenizer for molecular SMILES in Rust with Python bindings |
+| [chembl-pdb-linker](https://github.com/HFooladi/chembl-pdb-linker) | Curated protein-ligand dataset linking ChEMBL bioactivity with PDB co-crystal structures |
 
 ## GitHub Stats
 
