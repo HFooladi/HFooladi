@@ -11,24 +11,36 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 
 ## What I Work On
 
-- High-performance scientific tooling in Rust (PDB/SDF parsers, molecular tokenizers)
 - Out-of-distribution generalization and robustness for molecular property and activity prediction
-- Graph neural networks for chemistry and drug discovery
 - Test-time training and domain adaptation in chemical space
+- Graph neural networks for chemistry and drug discovery
 - Generative models for drug design (Diffusion, Flow-based models)
+- High-performance scientific tooling in Rust (PDB/SDF parsers, molecular tokenizers)
 
 ## Featured Projects
 
+**Research**
+
 | Project | Description |
 |---------|-------------|
-| [GNNs-For-Chemists](https://github.com/HFooladi/GNNs-For-Chemists) | Educational material: GNN implementations from scratch for chemists |
-| [pdbrust](https://github.com/HFooladi/pdbrust) | Rust library for parsing PDB files |
-| [ALineMol](https://github.com/HFooladi/ALineMol) | ML model performance on OOD data in chemistry |
+| [ALineMol](https://github.com/HFooladi/ALineMol) | Benchmarking ML models on out-of-distribution molecular data |
 | [THEMAP](https://github.com/HFooladi/THEMAP) | Task hardness estimation for molecular activity prediction |
-| [sdfrust](https://github.com/HFooladi/sdfrust) | A fast, pure-Rust parser for SDF and MOL2 chemical structure files |
 | [molax](https://github.com/HFooladi/molax) | Molecular active learning with JAX |
-| [Transformers-For-Chemists](https://github.com/HFooladi/Transformers-For-Chemists) | Educational course: Transformers from scratch for chemists |
-| [rustmolbpe](https://github.com/HFooladi/rustmolbpe) | High-performance BPE tokenizer for molecular SMILES in Rust with Python bindings |
+
+**Educational**
+
+| Project | Description |
+|---------|-------------|
+| [GNNs-For-Chemists](https://github.com/HFooladi/GNNs-For-Chemists) | GNN implementations from scratch for chemists |
+| [Transformers-For-Chemists](https://github.com/HFooladi/Transformers-For-Chemists) | Transformers from scratch for chemists (sister course to GNNs-For-Chemists) |
+
+**Rust tooling & data**
+
+| Project | Description |
+|---------|-------------|
+| [pdbrust](https://github.com/HFooladi/pdbrust) | Rust library for parsing PDB files |
+| [sdfrust](https://github.com/HFooladi/sdfrust) | Fast, pure-Rust parser for SDF and MOL2 chemical structure files |
+| [rustmolbpe](https://github.com/HFooladi/rustmolbpe) | BPE tokenizer for molecular SMILES in Rust with Python bindings |
 | [chembl-pdb-linker](https://github.com/HFooladi/chembl-pdb-linker) | Curated protein-ligand dataset linking ChEMBL bioactivity with PDB co-crystal structures |
 
 ## GitHub Stats
