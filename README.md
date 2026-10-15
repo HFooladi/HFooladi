@@ -33,6 +33,7 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 |---------|-------------|
 | [GNNs-For-Chemists](https://github.com/HFooladi/GNNs-For-Chemists) | GNN implementations from scratch for chemists |
 | [Transformers-For-Chemists](https://github.com/HFooladi/Transformers-For-Chemists) | Transformers from scratch for chemists (sister course to GNNs-For-Chemists) |
+| [bayesoptimol](https://github.com/HFooladi/bayesoptimol) | Interactive Jupyter Book on Bayesian optimization and active learning in drug discovery |
 
 **Rust tooling & data**
 
@@ -42,6 +43,7 @@ PhD candidate at the University of Vienna, specializing in machine learning for 
 | [sdfrust](https://github.com/HFooladi/sdfrust) | Fast, pure-Rust parser for SDF and MOL2 chemical structure files |
 | [rustmolbpe](https://github.com/HFooladi/rustmolbpe) | BPE tokenizer for molecular SMILES in Rust with Python bindings |
 | [chembl-pdb-linker](https://github.com/HFooladi/chembl-pdb-linker) | Curated protein-ligand dataset linking ChEMBL bioactivity with PDB co-crystal structures |
+| [lincs_processing](https://github.com/HFooladi/lincs_processing) | Filtering and reshaping LINCS L1000 data by cell line, compound, dose, and time |
 
 ## GitHub Stats
 
